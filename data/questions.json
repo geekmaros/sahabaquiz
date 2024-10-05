@@ -1,0 +1,94 @@
+{
+  "questions": [
+    {
+      "question": "Who was the first person to accept Islam?",
+      "options": ["Abu Bakr", "Ali ibn Abi Talib", "Khadijah bint Khuwaylid", "Uthman ibn Affan"],
+      "correctOption": 2,
+      "points": 10
+    },
+    {
+      "question": "Who was known as the 'Sword of Allah'?",
+      "options": ["Umar ibn Al-Khattab", "Khalid ibn Al-Walid", "Abu Ubaidah ibn Al-Jarrah", "Ali ibn Abi Talib"],
+      "correctOption": 1,
+      "points": 10
+    },
+    {
+      "question": "Which Sahaba was the first caliph of Islam?",
+      "options": ["Umar ibn Al-Khattab", "Abu Bakr As-Siddiq", "Ali ibn Abi Talib", "Uthman ibn Affan"],
+      "correctOption": 1,
+      "points": 10
+    },
+    {
+      "question": "Which Sahabi was known for compiling the Quran into one book?",
+      "options": ["Ali ibn Abi Talib", "Uthman ibn Affan", "Zaid ibn Thabit", "Abu Huraira"],
+      "correctOption": 1,
+      "points": 10
+    },
+    {
+      "question": "Who was known as 'The Trustworthy One of This Nation'?",
+      "options": ["Abu Bakr As-Siddiq", "Umar ibn Al-Khattab", "Abu Ubaidah ibn Al-Jarrah", "Muadh ibn Jabal"],
+      "correctOption": 2,
+      "points": 10
+    },
+    {
+      "question": "Which Sahabi was the cousin and son-in-law of Prophet Muhammad (PBUH)?",
+      "options": ["Ali ibn Abi Talib", "Abdullah ibn Abbas", "Zaid ibn Harithah", "Uthman ibn Affan"],
+      "correctOption": 0,
+      "points": 10
+    },
+    {
+      "question": "Who was the first person to lead Salah after Prophet Muhammad (PBUH)?",
+      "options": ["Abu Bakr As-Siddiq", "Umar ibn Al-Khattab", "Ali ibn Abi Talib", "Uthman ibn Affan"],
+      "correctOption": 0,
+      "points": 10
+    },
+    {
+      "question": "Who was known as the 'Lion of Allah'?",
+      "options": ["Ali ibn Abi Talib", "Hamza ibn Abdul-Muttalib", "Khalid ibn Al-Walid", "Abu Dujana"],
+      "correctOption": 1,
+      "points": 10
+    },
+    {
+      "question": "Which Sahaba was known for his wealth and generosity in supporting the Muslim community?",
+      "options": ["Abu Bakr As-Siddiq", "Uthman ibn Affan", "Abdul Rahman ibn Awf", "Saad ibn Abi Waqqas"],
+      "correctOption": 1,
+      "points": 10
+    },
+    {
+      "question": "Who was the foster son of Prophet Muhammad (PBUH)?",
+      "options": ["Zaid ibn Harithah", "Usama ibn Zaid", "Abdullah ibn Abbas", "Anas ibn Malik"],
+      "correctOption": 0,
+      "points": 10
+    },
+    {
+      "question": "Which Sahabi was known for narrating the most Hadiths?",
+      "options": ["Abu Huraira", "Anas ibn Malik", "Abdullah ibn Umar", "Aisha bint Abi Bakr"],
+      "correctOption": 0,
+      "points": 10
+    },
+    {
+      "question": "Who was appointed as the commander of the Muslim army in the Battle of Mu'tah?",
+      "options": ["Zaid ibn Harithah", "Khalid ibn Al-Walid", "Ja'far ibn Abi Talib", "Abu Ubaidah ibn Al-Jarrah"],
+      "correctOption": 0,
+      "points": 10
+    },
+    {
+      "question": "Who was the scribe of Prophet Muhammad (PBUH) and assisted in writing down the Quranic revelations?",
+      "options": ["Ali ibn Abi Talib", "Zaid ibn Thabit", "Abu Bakr As-Siddiq", "Umar ibn Al-Khattab"],
+      "correctOption": 1,
+      "points": 10
+    },
+    {
+      "question": "Which Sahabi was known for keeping the secrets of Prophet Muhammad (PBUH)?",
+      "options": ["Hudhayfah ibn Yaman", "Abu Bakr As-Siddiq", "Abu Huraira", "Khalid ibn Al-Walid"],
+      "correctOption": 0,
+      "points": 10
+    },
+    {
+      "question": "Who were among the ten Sahabas promised Jannah (Paradise) by Prophet Muhammad (PBUH)?",
+      "options": ["Umar ibn Al-Khattab", "Uthman ibn Affan", "Ali ibn Abi Talib", "All of the above"],
+      "correctOption": 3,
+      "points": 10
+    }
+  ]
+}
