@@ -1,6 +1,7 @@
-import questions from  "data/questions.json"
+import ques from  "data/questions.json"
 
-export default function handler(req, res) {
-    // Send the questions from the local JSON file
-    res.status(200).json(questions);
+export default function questions(req, res) {
+    res.statusCode = 200;
+    const data = ques
+    res.json({ data });
 }
