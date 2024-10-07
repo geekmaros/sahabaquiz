@@ -13,9 +13,45 @@
       "points": 10
     },
     {
+      "question": "Who was the first person to accept Islam?",
+      "options": ["Abu Bakr", "Ali ibn Abi Talib", "Khadijah bint Khuwaylid", "Uthman ibn Affan"],
+      "correctOption": 2,
+      "points": 10
+    },
+    {
+      "question": "Who was known as the 'Mother of the Believers' and contributed many Hadiths?",
+      "options": ["Aisha bint Abi Bakr", "Khadijah bint Khuwaylid", "Hafsa bint Umar", "Zainab bint Jahsh"],
+      "correctOption": 0,
+      "points": 10
+    },
+    {
+      "question": "Which wife of the Prophet (PBUH) was the first to believe in his message?",
+      "options": ["Aisha bint Abi Bakr", "Khadijah bint Khuwaylid", "Hafsa bint Umar", "Umm Salamah"],
+      "correctOption": 1,
+      "points": 10
+    },
+    {
       "question": "Which Sahaba was the first caliph of Islam?",
       "options": ["Umar ibn Al-Khattab", "Abu Bakr As-Siddiq", "Ali ibn Abi Talib", "Uthman ibn Affan"],
       "correctOption": 1,
+      "points": 10
+    },
+    {
+      "question": "Which female Sahabi was renowned for her role in spreading knowledge among women during the Prophet's (PBUH) time?",
+      "options": ["Aisha bint Abi Bakr", "Umm Salamah", "Hafsa bint Umar", "Fatimah bint Muhammad"],
+      "correctOption": 0,
+      "points": 10
+    },
+    {
+      "question": "Who was the Prophet's (PBUH) daughter known for her resilience after the death of her husband Uthman ibn Maz'un?",
+      "options": ["Ruqayyah", "Fatimah", "Zainab", "Umm Kulthum"],
+      "correctOption": 3,
+      "points": 10
+    },
+    {
+      "question": "Who was the woman who approached the Prophet (PBUH) to ask for a divorce from her husband due to incompatibility?",
+      "options": ["Jamilah bint Thabit", "Hafsa bint Umar", "Umm Habibah", "Khadijah bint Khuwaylid"],
+      "correctOption": 0,
       "points": 10
     },
     {
@@ -76,6 +112,19 @@
       "question": "Who was the scribe of Prophet Muhammad (PBUH) and assisted in writing down the Quranic revelations?",
       "options": ["Ali ibn Abi Talib", "Zaid ibn Thabit", "Abu Bakr As-Siddiq", "Umar ibn Al-Khattab"],
       "correctOption": 1,
+      "points": 10
+    },
+    {
+      "question": "Who was the daughter of Abu Sufyan who accepted Islam and married the Prophet (PBUH)?",
+      "options": ["Umm Habibah", "Hafsa bint Umar", "Aisha bint Abi Bakr", "Khadijah bint Khuwaylid"],
+      "correctOption": 0,
+      "points": 10
+    },
+
+    {
+      "question": "Which female Sahabi was known for her leadership and intelligence during the pledge at Aqabah?",
+      "options": ["Nusaybah bint Ka'ab", "Khadijah bint Khuwaylid", "Umm Salamah", "Hafsa bint Umar"],
+      "correctOption": 0,
       "points": 10
     },
     {
@@ -163,6 +212,24 @@
       "points": 10
     },
     {
+      "question": "Who was known as the Prophet's (PBUH) loyal servant and a mother figure to him?",
+      "options": ["Barakah (Umm Ayman)", "Hafsa bint Umar", "Zainab bint Jahsh", "Fatimah bint Asad"],
+      "correctOption": 0,
+      "points": 10
+    },
+    {
+      "question": "Which wife of the Prophet (PBUH) was known for being previously widowed twice before marrying him?",
+      "options": ["Umm Salamah", "Aisha bint Abi Bakr", "Hafsa bint Umar", "Khadijah bint Khuwaylid"],
+      "correctOption": 0,
+      "points": 10
+    },
+    {
+      "question": "Which female Sahabi was the sister of Umar ibn Al-Khattab and accepted Islam before him?",
+      "options": ["Fatimah bint Khattab", "Hafsa bint Umar", "Sumayyah bint Khayyat", "Ruqayyah"],
+      "correctOption": 0,
+      "points": 10
+    },
+    {
       "question": "Which Sahabi was present during the Prophet's migration (Hijrah) to Madinah?",
       "options": ["Abu Bakr As-Siddiq", "Uthman ibn Affan", "Ali ibn Abi Talib", "Umar ibn Al-Khattab"],
       "correctOption": 0,
@@ -222,25 +289,6 @@
       "correctOption": 0,
       "points": 10
     },
-
-    {
-      "question": "Who was the first person to accept Islam?",
-      "options": ["Abu Bakr", "Ali ibn Abi Talib", "Khadijah bint Khuwaylid", "Uthman ibn Affan"],
-      "correctOption": 2,
-      "points": 10
-    },
-    {
-      "question": "Who was known as the 'Mother of the Believers' and contributed many Hadiths?",
-      "options": ["Aisha bint Abi Bakr", "Khadijah bint Khuwaylid", "Hafsa bint Umar", "Zainab bint Jahsh"],
-      "correctOption": 0,
-      "points": 10
-    },
-    {
-      "question": "Which wife of the Prophet (PBUH) was the first to believe in his message?",
-      "options": ["Aisha bint Abi Bakr", "Khadijah bint Khuwaylid", "Hafsa bint Umar", "Umm Salamah"],
-      "correctOption": 1,
-      "points": 10
-    },
     {
       "question": "Who was the first martyr (Shaheed) of Islam?",
       "options": ["Sumayyah bint Khayyat", "Yasir ibn Amir", "Hamza ibn Abdul-Muttalib", "Bilal ibn Rabah"],
@@ -286,24 +334,6 @@
     {
       "question": "Who was the female Sahabi that defended the Prophet (PBUH) during the Battle of Uhud?",
       "options": ["Nusaybah bint Ka'ab", "Umm Salamah", "Aisha bint Abi Bakr", "Khadijah bint Khuwaylid"],
-      "correctOption": 0,
-      "points": 10
-    },
-    {
-      "question": "Who was known as the Prophet's (PBUH) loyal servant and a mother figure to him?",
-      "options": ["Barakah (Umm Ayman)", "Hafsa bint Umar", "Zainab bint Jahsh", "Fatimah bint Asad"],
-      "correctOption": 0,
-      "points": 10
-    },
-    {
-      "question": "Which wife of the Prophet (PBUH) was known for being previously widowed twice before marrying him?",
-      "options": ["Umm Salamah", "Aisha bint Abi Bakr", "Hafsa bint Umar", "Khadijah bint Khuwaylid"],
-      "correctOption": 0,
-      "points": 10
-    },
-    {
-      "question": "Which female Sahabi was the sister of Umar ibn Al-Khattab and accepted Islam before him?",
-      "options": ["Fatimah bint Khattab", "Hafsa bint Umar", "Sumayyah bint Khayyat", "Ruqayyah"],
       "correctOption": 0,
       "points": 10
     },
@@ -355,35 +385,6 @@
       "correctOption": 0,
       "points": 10
     },
-    {
-      "question": "Who was the daughter of Abu Sufyan who accepted Islam and married the Prophet (PBUH)?",
-      "options": ["Umm Habibah", "Hafsa bint Umar", "Aisha bint Abi Bakr", "Khadijah bint Khuwaylid"],
-      "correctOption": 0,
-      "points": 10
-    },
-    {
-      "question": "Which female Sahabi was renowned for her role in spreading knowledge among women during the Prophet's (PBUH) time?",
-      "options": ["Aisha bint Abi Bakr", "Umm Salamah", "Hafsa bint Umar", "Fatimah bint Muhammad"],
-      "correctOption": 0,
-      "points": 10
-    },
-    {
-      "question": "Who was the Prophet's (PBUH) daughter known for her resilience after the death of her husband Uthman ibn Maz'un?",
-      "options": ["Ruqayyah", "Fatimah", "Zainab", "Umm Kulthum"],
-      "correctOption": 3,
-      "points": 10
-    },
-    {
-      "question": "Who was the woman who approached the Prophet (PBUH) to ask for a divorce from her husband due to incompatibility?",
-      "options": ["Jamilah bint Thabit", "Hafsa bint Umar", "Umm Habibah", "Khadijah bint Khuwaylid"],
-      "correctOption": 0,
-      "points": 10
-    },
-    {
-      "question": "Which female Sahabi was known for her leadership and intelligence during the pledge at Aqabah?",
-      "options": ["Nusaybah bint Ka'ab", "Khadijah bint Khuwaylid", "Umm Salamah", "Hafsa bint Umar"],
-      "correctOption": 0,
-      "points": 10
-    }
+
   ]
 }
