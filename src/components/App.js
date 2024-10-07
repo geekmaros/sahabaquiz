@@ -126,7 +126,6 @@ function App() {
     })
         .then((res) => res.json())
         .then((data) => {
-          console.log(data)
           const totalNumberOfQuestionBank = data.length;
           dispatch({ type: "dataReceived", payload: { questions: data.questions, totalNumberOfQuestionBank } });
         })
