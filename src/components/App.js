@@ -113,21 +113,22 @@ function App() {
 
   // Fetch all questions when the component mounts
   useEffect(function () {
-    const apiUrl = "https://api.jsonbin.io/v3/b/6703cd64e41b4d34e43e7ec1"
+    const apiUrl = "https://api.jsonbin.io/v3/b/6703ddaead19ca34f8b445c7"
 
     const headers = {
       "X-Master-Key": process.env.REACT_APP_API_X_Master_Key,          // Replace <API_KEY> with your actual API key
       "X-Access-Key": process.env.REACT_APP_API_X_Access_Key,        // Replace <ACCESS_KEY> with your actual access key
       "X-Bin-Meta": "false",                 // Optional; set as needed
     };
-    fetch(apiUrl, {
+    fetch( apiUrl, {
       method: "GET",
       headers
     })
         .then((res) => res.json())
         .then((data) => {
+          console.log(data)
           const totalNumberOfQuestionBank = data.length;
-          dispatch({ type: "dataReceived", payload: { questions: data, totalNumberOfQuestionBank } });
+          dispatch({ type: "dataReceived", payload: { questions: data.questions, totalNumberOfQuestionBank } });
         })
         .catch((err) => dispatch({ type: "dataFailed" }));
   }, []);
