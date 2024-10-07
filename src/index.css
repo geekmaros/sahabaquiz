@@ -50,6 +50,7 @@ body {
   justify-content: space-between;
 }
 
+
 .error {
   text-align: center;
   font-size: 1.6rem;
@@ -98,7 +99,7 @@ h4 {
 }
 
 .set > input {
-  margin-bottom: 10px;
+  margin-bottom: 30px;
   margin-left: 10px;
   font-size: 2rem;
 }
@@ -271,3 +272,24 @@ progress {
   font-size: inherit;
   padding: 0.8rem;
 }
+
+@media (max-width: 768px) {
+  .app-header {
+    width: 90%; /* Adjust to a more responsive width */
+    margin-bottom: 2rem; /* Reduce margin if needed for better spacing on small screens */
+    flex-direction: column;
+  }
+
+  .app-header > h1 {
+    font-size: 5rem;
+  }
+
+  .main {
+    width: 90%
+  }
+
+  .start > h2, h4{
+    font-size: 1.8rem;
+  }
+}
+
