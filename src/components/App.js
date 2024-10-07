@@ -113,7 +113,7 @@ function App() {
 
   // Fetch all questions when the component mounts
   useEffect(function () {
-    fetch("/api/questions")
+    fetch("http://localhost:9000/questions")
         .then((res) => res.json())
         .then((data) => {
           const totalNumberOfQuestionBank = data.length;
